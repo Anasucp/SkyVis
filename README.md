@@ -55,7 +55,7 @@ SkyVis/
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/SkyVis.git
+git clone https://github.com/Anasucp/SkyVis.git
 cd SkyVis
 ```
 
@@ -223,8 +223,8 @@ Contributions are welcome! If you'd like to improve this project, please submit 
 ## 📞 **Contact**
 
 - **Author**: Muhammad Ans  
-- **Email**: [your-email@example.com]  
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+- **Email**: [anas.ccj420@gmail.com]  
+- **GitHub**: [https://github.com/Anasucp](https://github.com/Anasucp)
 
 ---
 
